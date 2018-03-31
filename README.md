@@ -28,6 +28,7 @@ Second, Animator uses it to switch animations is very convenient, but it has one
 4. Write code to control the actions of the model through the keyboard or mouse.
 
 **Project**
+
 After press the start the button, you can press 1 to 4 button on keyboard to do tha action such as run, walk. and Press the left mouse button to randomly make different attacks
 
 **Citation**
